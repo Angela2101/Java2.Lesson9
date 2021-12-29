@@ -60,7 +60,7 @@ public class Main {
         students.add(_student);
 
         // Подготовка третьего студента...
-        _student = new Student("Илья");
+        _student = new Student("Дмитрий");
         _student.setCourse(courses.get(0));
         _student.setCourse(courses.get(1));
         _student.setCourse(courses.get(2));
